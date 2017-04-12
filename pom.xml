@@ -11,6 +11,8 @@
     <modules>
         <module>corejava</module>
         <module>elk-rookie</module>
+        <module>hadoop-rookie</module>
+        <module>elk-app</module>
     </modules>
 
 
