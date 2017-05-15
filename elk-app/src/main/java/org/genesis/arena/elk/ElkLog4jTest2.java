@@ -8,6 +8,6 @@ import org.apache.log4j.Logger;
 public class ElkLog4jTest2 {
     private static final Logger logger = Logger.getLogger(ElkLog4jTest2.class);
     public static void main(String[] args) throws Exception {
-        logger.debug("这是应用B的日志!");
+        logger.debug("哈哈哈哈, 我成功了!");
     }
 }
