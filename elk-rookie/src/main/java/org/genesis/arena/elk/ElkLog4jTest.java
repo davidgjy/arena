@@ -8,6 +8,6 @@ import org.apache.log4j.Logger;
 public class ElkLog4jTest {
     private static final Logger logger = Logger.getLogger(ElkLog4jTest.class);
     public static void main(String[] args) throws Exception {
-        logger.debug("我记录记录记录, socket访问!");
+        logger.debug("另外一台服务器,最新的日志!!");
     }
 }
